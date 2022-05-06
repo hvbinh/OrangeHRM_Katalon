@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify assign leave displays successfully testing</name>
+   <tag>@smoke</tag>
+   <comment></comment>
+   <testCaseGuid>ba8ba4be-1956-4cf6-aabf-f7b18f4d1f53</testCaseGuid>
+</TestCaseEntity>
