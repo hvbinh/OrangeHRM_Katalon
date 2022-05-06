@@ -25,6 +25,8 @@ WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
 
 WebUI.sendKeys(findTestObject('Login/Username_Textbox'), 'Admin')
 
+String username = WebUI.getText(findTestObject('Login/Username_Textbox'))
+
 WebUI.sendKeys(findTestObject('Login/Password_Textbox'), 'admin123')
 
 WebUI.click(findTestObject('Login/Login_Button'))
